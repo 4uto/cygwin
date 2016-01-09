@@ -11,4 +11,4 @@ rem echo *** Installation is complete. To get explorer integration, open the Cyg
 
 rem chere -i -t mintty
 
-pause
+rem pause
